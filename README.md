@@ -1,5 +1,5 @@
 
-## Projeto Aprendido com a rocketseat 
+## Git hub Explorer uma aplicaçao com ReactJS  
 
 ### `Para Iniciar Projeto`
 
